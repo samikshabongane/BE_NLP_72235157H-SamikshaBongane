@@ -1,12 +1,19 @@
-# Tokenization and Stemming using NLTK
+# Assignment 1: Tokenization, Stemming and Lemmatization
 
 ## Problem Statement
-Perform tokenization using multiple techniques and apply stemming and lemmatization.
+Implement tokenization techniques and apply stemming and lemmatization using the NLTK library.
 
-## Explanation
-Different tokenization techniques split text into tokens in different ways. 
-Porter and Snowball stemmers reduce words to their root form.
-Lemmatization converts words into meaningful base form.
+## Tools Used
+Python
+NLTK
+Jupyter Notebook
+
+## Description
+Different tokenization techniques such as whitespace tokenization, punctuation tokenization, Treebank tokenizer and Tweet tokenizer were implemented.
+
+Stemming was performed using Porter Stemmer and Snowball Stemmer.
+
+Lemmatization was implemented using WordNet Lemmatizer.
 
 ## Conclusion
-Tokenization is an important preprocessing step in NLP and helps in further analysis of text.
+Tokenization, stemming and lemmatization are essential preprocessing techniques used in Natural Language Processing tasks.
